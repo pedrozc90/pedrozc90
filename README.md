@@ -1,17 +1,18 @@
-# Pedro Z Campos - Luaerror
+# Pedro Z. Campos - Luaerror
 
 <p>Welcome to my GitHub.</p>
-<p>I started it while I was learning to programmin World of Warcraf Addons in 2013-2014 because of TukUI.</p>
+<p>I started learning programming with World of Warcraf Addons in 2013-2014 because of [TukUI](https://www.tukui.org/welcome.php).Where we can remodel or create new features to the game interface.</p>
 <p>So Lua Script was, propably, my first programming languages and is still one of my favorites.</p>
 
-## Interests
+## Loved Technologies
 
-+   [**Lua Script**](https://www.lua.org) programming language that started this github.
-+   Functional Programming
-    +   I'm studying [**Elixir**](https://elixir-lang.org)
++   [**Lua Script**](https://www.lua.org) programming language sparked my interest by programming.
++   [**Elixir**](https://elixir-lang.org)
+    -   Interested in funcional programming
+    -   Enjoyed the syntax
 +   Typescript
-+   Node.js
-+   Vue.js
++   NodeJS
++   PostgreSQL
 
 ## Latest Projects
 
@@ -22,5 +23,14 @@
 ## Experience
 
 +   2009 - 2016: Mechanical Engineering Bachelor Degree
-+   2018 - ????: Computer Science Student
-+   2019 - 2021: Backend/Frontend Development on a local RFID Company.
++   2019 - On Going: Working full-time as backend/frontend feveloper at a local RFID Company.
+    -   Tecnologies used on work:
+        -   PostgreSQL v11+
+        -   Java (Backend)
+            -   [Play Framework](https://www.playframework.com/) - I don't like it, but i enjoy the use of actors model (akka).
+            -   [Micronaut](https://micronaut.io/)
+        -   NodeJS
+        -   AngularJS v1.5 (nightmare)
+        -   Vue.js
+        -   RabbitMQ
+        -   Docker + Docker-Composer

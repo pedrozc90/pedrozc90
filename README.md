@@ -21,7 +21,7 @@ but nothing that really stuck — yet.
 - **Elixir** — great syntax and mindset
 - **PostgreSQL** — solid and reliable
 - **TypeScript / Node.js** — when the stars align
-- **wow-lua** — [@wow-lua](https://github.com/wow-lua/repositories), where I keep all my WoW addon stuff
+- **wow-lua** — [@lua-wow](https://github.com/lua-wow), where I keep all my WoW addon stuff
 
 Frontend? I’ll do it... but only if I have to.
 
